@@ -1,0 +1,6 @@
+# تجاهل التوكن والملفات المؤقتة
+config.py
+pycache/
+*.pyc
+*.tmp
+*.log
